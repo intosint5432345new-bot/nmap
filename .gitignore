@@ -67,3 +67,10 @@ libz/configure.log
 !macosx/Makefile
 !mswin32/Makefile
 !zenmap/share/zenmap/locale/Makefile
+*.exe
+*.dll
+*.pdb
+/py2exe/
+/mswin32/
+/dist/
+/build/
